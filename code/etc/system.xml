@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+    <sections>
+        <system>
+            <groups>
+                <media_storage_configuration>
+                    <fields>
+                        <mount_path>
+                            <label>Mount Path</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>150</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>0</show_in_website>
+                            <show_in_store>0</show_in_store>
+                            <depends><media_storage>3</media_storage></depends>
+                            <!-- TODO - add backend model to validate path is present and writable -->
+                        </mount_path>
+                    </fields>
+                </media_storage_configuration>
+            </groups>
+        </system>
+    </sections>
+</config>

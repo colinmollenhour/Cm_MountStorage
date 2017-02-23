@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Cm_MountStorage>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Core />
+                <Mage_Adminhtml />
+                <Mage_Cms />
+            </depends>
+        </Cm_MountStorage>
+    </modules>
+</config>

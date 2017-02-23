@@ -1,0 +1,15 @@
+{
+  "name": "colinmollenhour/magento-mountstorage",
+  "description": "Use a mount point (e.g. NFS or Gluster) as the media storage for Magento.",
+  "type": "magento-module",
+  "license": "MIT",
+  "keywords": [
+    "magento","nfs","gluster"
+  ],
+  "authors": [
+    {
+      "name": "Colin Mollenhour",
+      "email": "colin@mollenhour.com"
+    }
+  ]
+}
