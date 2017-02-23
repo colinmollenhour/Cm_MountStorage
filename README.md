@@ -38,5 +38,5 @@ Install via modman or composer and configure in System > Configuration > System 
 Credit
 ------
 
-I used "Arkade_S3":https://github.com/SeoFood/magento-s3 extension code to save some time with the boilerplate model rewrites
-and such. Thanks, Thai Phan for the clean extension code!
+I used the [Arkade_S3](https://github.com/SeoFood/magento-s3) extension code to save some time with the boilerplate model rewrites
+and such. Thanks, Thai Phan for sharing the clean extension code!
